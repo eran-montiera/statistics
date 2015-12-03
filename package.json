@@ -30,6 +30,7 @@
   },
   "homepage": "https://github.com/Granze/react-starterify",
   "dependencies": {
+    "express": "^4.13.3",
     "history": "^1.13.1",
     "react": "^0.14.0",
     "react-dom": "^0.14.0",
@@ -50,6 +51,7 @@
     "gulp-eslint": "^1.0.0",
     "gulp-html-replace": "^1.5.1",
     "gulp-imagemin": "^2.4.0",
+    "gulp-nodemon": "^2.0.4",
     "gulp-notify": "^2.2.0",
     "gulp-postcss": "^6.0.0",
     "gulp-sourcemaps": "^1.5.2",
